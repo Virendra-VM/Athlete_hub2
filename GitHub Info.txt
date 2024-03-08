@@ -1,0 +1,19 @@
+	•	To Push New project to GitHub you should follow the following steps.
+
+	1)	Create New Repository and name it as per ur project name
+	2)	Copy the HTTPS link or SSH link, which appears when u create ur project.
+	3)	Open terminal, change the Directory to the folder where you want create the project.
+	4)	Type following line in terminal “ git clone SSH link or HTTPS link ” and press Enter
+	5)	A Clone of your GitHub Ripository will be created.
+	6)	After That You can add file or create file in it.
+
+	•	To Push all the files you have added to folder follow the following steps.
+
+	1)	 Open terminal and type “ git add file_name”
+	2)	 Type “ git status ” to find out what all things will be commited 
+	3)	Then type “ git commit -m “Comment” ” 
+	4)	 Now to push all the commits to GitHub type “ git push ”, and see all the files on the GitHub
+
+	•	You can create new branch in your Project file using this line in terminal “ git checkout -b Branch_name ”.
+
+	•	To check all the branch, Go to ur project file directory then type “ git branch ”.
