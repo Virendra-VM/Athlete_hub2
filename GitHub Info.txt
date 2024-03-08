@@ -17,3 +17,5 @@
 	•	You can create new branch in your Project file using this line in terminal “ git checkout -b Branch_name ”.
 
 	•	To check all the branch, Go to ur project file directory then type “ git branch ”.
+
+	•	ETC
